@@ -1,0 +1,7 @@
+arguments: C:\Users\user\anaconda3\envs\py37_tf\lib\site-packages\ipykernel_launcher.py -f C:\Users\user\AppData\Roaming\jupyter\runtime\kernel-93032508-5495-4379-bb99-fc82bd105d18.json
+--------------------
+tensorflow version: 1.14.0
+--------------------
+git hash: git rev-parse HEAD: 系統找不到指定的檔案。
+--------------------
+git diff HEAD: 系統找不到指定的檔案。
